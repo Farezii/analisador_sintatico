@@ -3,7 +3,6 @@
 ## Autor: 
 
 - Fabio Prestes Cesar Rezende
--- RA 169665
 
 ## Resumo:
 
@@ -26,9 +25,9 @@ Para a execução do código é necessário ter python 3.7.6 ou superior.
 Opcoes para obter Python:
 - Ubuntu: Ja vem instalado nativamente.
 - Windows 10: Escolha uma das opcoes abaixo:
--- Instalacao direta (https://www.python.org/downloads/), utiliza o terminal.
--- Anaconda Navigator (https://www.anaconda.com/products/individual), mais flexibilidade, ainda usa terminal.
--- Qualquer IDE com implementacao de linguagem Python (Visual Studio, PyCharm).
+  - Instalacao direta (https://www.python.org/downloads/), utiliza o terminal.
+  - Anaconda Navigator (https://www.anaconda.com/products/individual), mais flexibilidade, ainda usa terminal.
+  - Qualquer IDE com implementacao de linguagem Python (Visual Studio, PyCharm).
 
 
 ## Modificacao de exemplo usado:
@@ -38,10 +37,10 @@ Abra o codigo, e modifique a linha 22 (file = open('txt1.txt')), mudando txt1 po
 ## Execucao
 
 - Utilizando sua plataforma de Python preferida:
-(Python, Anaconda, ou outra plataforma de base terminal): Movimente-se ate o local do arquivo analisadorSintatico.py, e utilize o comando "python analisadorSintatico.py" para rodar o programa.
+  - (Python, Anaconda, ou outra plataforma de base terminal): Movimente-se ate o local do arquivo analisadorSintatico.py, e utilize o comando "python analisadorSintatico.py" para rodar o programa.
 
 - Utilizando uma IDE:
-Abra o arquivo analisadorSintatico.py dentro da IDE escolhida, e clique no botao Rodar Codigo Atual (Normalmente atalho F5).
+  - Abra o arquivo analisadorSintatico.py dentro da IDE escolhida, e clique no botao Rodar Codigo Atual (Normalmente atalho F5).
 
 - Utilizando o IDLE (Somente para instalacao pura de Python):
-Abra o aplicativo IDLE, um terminal de Python sera aberto. Clique em File > Open... > analisadorSintatico.py. Em seguida, clique no editor de texto agora aberto, e clique em Run (atalho F5).
+  - Abra o aplicativo IDLE, um terminal de Python sera aberto. Clique em File > Open... > analisadorSintatico.py. Em seguida, clique no editor de texto agora aberto, e clique em Run (atalho F5).
